@@ -1,0 +1,54 @@
+D 2
+F 2
+M 2
+S 3
+sd
+10 15
+sf
+15 5
+sm 
+5 10
+ss
+6 5 4
+cd
+5 6
+7 8
+cf
+10 12
+16 5
+cm
+5 10 15
+8 12 16
+ud
+250 200 
+uf
+100 120
+um 
+55 80 
+p 
+40 60 50
+xdmin
+1 2
+3 4 
+xdmax
+10 40
+60 80
+xfmin
+1 4
+88 24
+xfmax
+15 33
+100 45
+xmmin
+1 5 3
+9 23 109
+xmmax
+6 10 54
+11 66 210
+
+DFMin 5.8
+DFMax 6.8
+FCMin 1
+FCMax 2
+CSMin 5
+CSMax 10
